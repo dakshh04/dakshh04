@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/dakshh0409" target="blank"><img src="https://img.shields.io/twitter/follow/dakshh0409?logo=twitter&style=for-the-badge" alt="dakshh0409" /></a> </p>
 
-- 🌱 I’m currently learning **MySQL, MERN stack**
+- 🌱 I’m currently learning **MySQL**
 
 - 💬 Ask me about **React, MERN**
 
