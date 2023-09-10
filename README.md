@@ -1,6 +1,6 @@
 ![MasterHead](https://www.crushpixel.com/big-static19/preview4/coding-system-minimal-infographic-banner-3584480.jpg)
 <h1 align="center">Hi 👋, I'm Dakshh Singh</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
